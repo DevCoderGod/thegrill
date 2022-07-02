@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/thegrill/static/css/main.320f27d8.css",
+    "main.js": "/thegrill/static/js/main.a39a7cee.js",
+    "static/js/787.4a9d9e2e.chunk.js": "/thegrill/static/js/787.4a9d9e2e.chunk.js",
+    "static/media/header.png": "/thegrill/static/media/header.c32f16cad5216530a20a.png",
+    "index.html": "/thegrill/index.html",
+    "main.320f27d8.css.map": "/thegrill/static/css/main.320f27d8.css.map",
+    "main.a39a7cee.js.map": "/thegrill/static/js/main.a39a7cee.js.map",
+    "787.4a9d9e2e.chunk.js.map": "/thegrill/static/js/787.4a9d9e2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.320f27d8.css",
+    "static/js/main.a39a7cee.js"
+  ]
+}
