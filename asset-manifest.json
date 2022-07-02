@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/thegrill/static/css/main.320f27d8.css",
-    "main.js": "/thegrill/static/js/main.8dca497d.js",
+    "main.css": "/thegrill/static/css/main.f5855073.css",
+    "main.js": "/thegrill/static/js/main.051536f3.js",
     "static/js/787.4a9d9e2e.chunk.js": "/thegrill/static/js/787.4a9d9e2e.chunk.js",
     "static/media/header.png": "/thegrill/static/media/header.c32f16cad5216530a20a.png",
     "index.html": "/thegrill/index.html",
-    "main.320f27d8.css.map": "/thegrill/static/css/main.320f27d8.css.map",
-    "main.8dca497d.js.map": "/thegrill/static/js/main.8dca497d.js.map",
+    "main.f5855073.css.map": "/thegrill/static/css/main.f5855073.css.map",
+    "main.051536f3.js.map": "/thegrill/static/js/main.051536f3.js.map",
     "787.4a9d9e2e.chunk.js.map": "/thegrill/static/js/787.4a9d9e2e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.320f27d8.css",
-    "static/js/main.8dca497d.js"
+    "static/css/main.f5855073.css",
+    "static/js/main.051536f3.js"
   ]
 }
